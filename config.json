@@ -1,0 +1,12 @@
+{
+  "sonar": {
+    "url": {
+      "internal": "http://192.168.20.48:9000",
+      "external": "http://sonar.gooeto.com:9000"
+    },
+    "account": {
+      "username": "admin",
+      "password": "123456"
+    }
+  }
+}
